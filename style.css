@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(18, 18, 104);
+}
+
+.banner{
+    background-color: bisque;
+    text-align: center;
+}
+
+.informacao{
+    display: flex;
+}
+
+.caixa1{
+    background-color: cornflowerblue;
+    height: 60px;
+}
+
+.caixa2{
+    background-color: cornflowerblue;
+}
