@@ -15,14 +15,30 @@ body {
 .caixa1{
     background-color: cornflowerblue;
     height: 795px;
-    width: 910px;
+    width: 894px;
     display: flex;
-    padding: 15px;;
-    
+    padding: 15px;
+    word-break: break-all;
+}
+
+.imagens{
+    width: 334px;
+    height: 794px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.textos{
+    margin: 60px;
+    width: 505px;
+    height: 135px;
+    font-style: italic;
+    color: aliceblue;
 }
 
 .caixa2{
     background-color: cornflowerblue;
-    height: 795px;
-    width: 910px;
+    height: 825px;
+    width: 937px;
 }
