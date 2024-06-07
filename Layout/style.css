@@ -70,10 +70,17 @@ body {
 
 .imagens2{
     width: 334px;
-    height: 794px;
+    height: 499px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.txcx2{
+    display: flex;
+    flex-direction: column;
+    width: 607px;
+    height: 476px;
 }
 
 .textos4{
@@ -82,11 +89,7 @@ body {
     height: 135px;
     font-style: italic;
     color: aliceblue;
-}
-
-.txcx2{
-    display: flex;
-    flex-direction: column;
+    
 }
 
 .textos5{
@@ -95,4 +98,12 @@ body {
     height: 135px;
     font-style: italic;
     color: aliceblue;
+}
+
+.referência{
+    width: 505px;
+    height: 135px;
+    font-style: italic;
+    color: aliceblue;
+    padding-top: 281px;
 }
