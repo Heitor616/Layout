@@ -20,7 +20,7 @@ body {
     word-break: break-all;
 }
 
-.imagens{
+.imagens1{
     width: 334px;
     height: 794px;
     display: flex;
@@ -59,6 +59,40 @@ body {
 
 .caixa2{
     background-color: cornflowerblue;
-    height: 825px;
-    width: 937px;
+    height: 795px;
+    width: 894px;
+    display: flex;
+    padding: 15px;;
+
+    padding: 15px;
+    word-break: break-all;
+}
+
+.imagens2{
+    width: 334px;
+    height: 794px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.textos4{
+    margin: 60px;
+    width: 505px;
+    height: 135px;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.txcx2{
+    display: flex;
+    flex-direction: column;
+}
+
+.textos5{
+    margin: 60px;
+    width: 505px;
+    height: 135px;
+    font-style: italic;
+    color: aliceblue;
 }
